@@ -1,7 +1,8 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-const DB_DIR = path.join(process.cwd(), 'data');
+const DB_ROOT = process.env.VERCEL ? '/tmp' : process.cwd();
+const DB_DIR = path.join(DB_ROOT, 'data');
 const PROSPECTS_FILE = path.join(DB_DIR, 'prospects.json');
 const EVENTS_FILE = path.join(DB_DIR, 'events.json');
 
