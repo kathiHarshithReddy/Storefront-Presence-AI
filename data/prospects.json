@@ -1,0 +1,54 @@
+[
+  {
+    "id": "mock_1785076140060",
+    "name": "Sample Plumbers of Seattle, WA",
+    "address": "123 Main St, Seattle, WA",
+    "rating": 3.5,
+    "user_ratings_total": 14,
+    "website": null,
+    "gap_score": 85,
+    "audit_draft": "No website found and low review count (14).",
+    "email_draft": "Hi owner,\n\nI noticed Sample Plumbers of Seattle, WA doesn't have a website and currently has 14 reviews with a 3.5 average. \n\nI've attached a custom audit showing exactly how these metrics impact your visibility in Seattle, WA. \n\nLet's chat?\n\nBest,\n[Your Name]",
+    "status": "drafted",
+    "audit_report": "# Digital Presence Audit: Sample Plumbers of Seattle, WA\n\n**Gap Score: 85/100**\n\n## Core Issues Found\n- **Missing Website**: Customers searching online cannot find a dedicated site for your services.\n- **Review Volume**: You currently have 14 reviews (3.5 avg). Having fewer reviews limits your visibility compared to competitors with higher review counts.\n\n## Our Proposal\nWe can build you a high-converting, mobile-optimized landing page and implement an automated review-collection system to help you capture more local search traffic in Seattle, WA."
+  },
+  {
+    "id": "mock_1785084619706",
+    "name": "Sample Plumbers of Seattle, WA",
+    "address": "123 Main St, Seattle, WA",
+    "rating": 3.5,
+    "user_ratings_total": 14,
+    "website": null,
+    "gap_score": 85,
+    "audit_draft": "No website found and low review count (14).",
+    "email_draft": "Hi owner,\n\nI noticed Sample Plumbers of Seattle, WA doesn't have a website and currently has 14 reviews with a 3.5 average. \n\nI've attached a custom audit showing exactly how these metrics impact your visibility in Seattle, WA. \n\nLet's chat?\n\nBest,\n[Your Name]",
+    "status": "drafted",
+    "audit_report": "# Digital Presence Audit: Sample Plumbers of Seattle, WA\n\n**Gap Score: 85/100**\n\n## Core Issues Found\n- **Missing Website**: Customers searching online cannot find a dedicated site for your services.\n- **Review Volume**: You currently have 14 reviews (3.5 avg). Having fewer reviews limits your visibility compared to competitors with higher review counts.\n\n## Our Proposal\nWe can build you a high-converting, mobile-optimized landing page and implement an automated review-collection system to help you capture more local search traffic in Seattle, WA."
+  },
+  {
+    "id": "mock_1785085071525",
+    "name": "Sample Roofers of Bengaluru",
+    "address": "123 Main St, Bengaluru",
+    "rating": 3.5,
+    "user_ratings_total": 14,
+    "website": null,
+    "gap_score": 85,
+    "audit_draft": "No website found and low review count (14).",
+    "email_draft": "Hi owner,\n\nI noticed Sample Roofers of Bengaluru doesn't have a website and currently has 14 reviews with a 3.5 average. \n\nI've attached a custom audit showing exactly how these metrics impact your visibility in Bengaluru. \n\nLet's chat?\n\nBest,\n[Your Name]",
+    "status": "drafted",
+    "audit_report": "# Digital Presence Audit: Sample Roofers of Bengaluru\n\n**Gap Score: 85/100**\n\n## Core Issues Found\n- **Missing Website**: Customers searching online cannot find a dedicated site for your services.\n- **Review Volume**: You currently have 14 reviews (3.5 avg). Having fewer reviews limits your visibility compared to competitors with higher review counts.\n\n## Our Proposal\nWe can build you a high-converting, mobile-optimized landing page and implement an automated review-collection system to help you capture more local search traffic in Bengaluru."
+  },
+  {
+    "id": "mock_1785085170803",
+    "name": "Sample Roofers of BENGALURU",
+    "address": "123 Main St, BENGALURU",
+    "rating": 3.5,
+    "user_ratings_total": 14,
+    "website": null,
+    "gap_score": 85,
+    "audit_draft": "No website found and low review count (14).",
+    "email_draft": "Hi owner,\n\nI noticed Sample Roofers of BENGALURU doesn't have a website and currently has 14 reviews with a 3.5 average. \n\nI've attached a custom audit showing exactly how these metrics impact your visibility in BENGALURU. \n\nLet's chat?\n\nBest,\n[Your Name]",
+    "status": "sent",
+    "audit_report": "# Digital Presence Audit: Sample Roofers of BENGALURU\n\n**Gap Score: 85/100**\n\n## Core Issues Found\n- **Missing Website**: Customers searching online cannot find a dedicated site for your services.\n- **Review Volume**: You currently have 14 reviews (3.5 avg). Having fewer reviews limits your visibility compared to competitors with higher review counts.\n\n## Our Proposal\nWe can build you a high-converting, mobile-optimized landing page and implement an automated review-collection system to help you capture more local search traffic in BENGALURU."
+  }
+]

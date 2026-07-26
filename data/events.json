@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "event_type": "prospecting_started",
+    "description": "Started prospecting for Plumbers in Seattle, WA (Dry Run: true)",
+    "details": null,
+    "timestamp": "2026-07-26T14:29:00.059Z"
+  },
+  {
+    "id": 2,
+    "event_type": "prospect_found",
+    "description": "Found mock prospect Sample Plumbers of Seattle, WA with gap score 85",
+    "details": "{\"place_id\":\"mock_1785076140060\",\"is_dry_run\":true}",
+    "timestamp": "2026-07-26T14:29:00.062Z"
+  },
+  {
+    "id": 3,
+    "event_type": "prospecting_completed",
+    "description": "Completed mock prospecting for Plumbers in Seattle, WA",
+    "details": null,
+    "timestamp": "2026-07-26T14:29:00.063Z"
+  },
+  {
+    "id": 4,
+    "event_type": "prospecting_started",
+    "description": "Started prospecting for Plumbers in Seattle, WA (Dry Run: true)",
+    "details": null,
+    "timestamp": "2026-07-26T16:50:19.704Z"
+  },
+  {
+    "id": 5,
+    "event_type": "prospect_found",
+    "description": "Found mock prospect Sample Plumbers of Seattle, WA with gap score 85",
+    "details": "{\"place_id\":\"mock_1785084619706\",\"is_dry_run\":true}",
+    "timestamp": "2026-07-26T16:50:19.708Z"
+  },
+  {
+    "id": 6,
+    "event_type": "prospecting_completed",
+    "description": "Completed mock prospecting for Plumbers in Seattle, WA",
+    "details": null,
+    "timestamp": "2026-07-26T16:50:19.709Z"
+  },
+  {
+    "id": 7,
+    "event_type": "prospecting_started",
+    "description": "Started prospecting for Roofers in Bengaluru (Dry Run: false)",
+    "details": null,
+    "timestamp": "2026-07-26T16:57:03.262Z"
+  },
+  {
+    "id": 8,
+    "event_type": "prospecting_started",
+    "description": "Started prospecting for Roofers in Bengaluru (Dry Run: true)",
+    "details": null,
+    "timestamp": "2026-07-26T16:57:51.524Z"
+  },
+  {
+    "id": 9,
+    "event_type": "prospect_found",
+    "description": "Found mock prospect Sample Roofers of Bengaluru with gap score 85",
+    "details": "{\"place_id\":\"mock_1785085071525\",\"is_dry_run\":true}",
+    "timestamp": "2026-07-26T16:57:51.527Z"
+  },
+  {
+    "id": 10,
+    "event_type": "prospecting_completed",
+    "description": "Completed mock prospecting for Roofers in Bengaluru",
+    "details": null,
+    "timestamp": "2026-07-26T16:57:51.529Z"
+  },
+  {
+    "id": 11,
+    "event_type": "prospecting_started",
+    "description": "Started prospecting for Roofers in BENGALURU (Dry Run: true)",
+    "details": null,
+    "timestamp": "2026-07-26T16:59:30.802Z"
+  },
+  {
+    "id": 12,
+    "event_type": "prospect_found",
+    "description": "Found mock prospect Sample Roofers of BENGALURU with gap score 85",
+    "details": "{\"place_id\":\"mock_1785085170803\",\"is_dry_run\":true}",
+    "timestamp": "2026-07-26T16:59:30.805Z"
+  },
+  {
+    "id": 13,
+    "event_type": "prospecting_completed",
+    "description": "Completed mock prospecting for Roofers in BENGALURU",
+    "details": null,
+    "timestamp": "2026-07-26T16:59:30.806Z"
+  },
+  {
+    "id": 14,
+    "event_type": "email_sent",
+    "description": "Sent email to Sample Roofers of BENGALURU (kathiharshithreddy@gmail.com)",
+    "details": "{\"place_id\":\"mock_1785085170803\"}",
+    "timestamp": "2026-07-26T17:13:16.575Z"
+  }
+]

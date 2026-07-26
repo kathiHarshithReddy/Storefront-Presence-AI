@@ -1,0 +1,8 @@
+{
+  "name": "Storefront Presence AI",
+  "description": "An AI-native local business growth agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
